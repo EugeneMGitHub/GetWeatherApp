@@ -10,4 +10,6 @@ https://www.weatherapi.com/docs/
 В Получаемом Json файле хранятся объекты о Текущей погоде для выбранного город, так и о Прогнозе на неделю. Причем информацию можно получить на русском языке.
 
 
-![Screenshot_20240402_175010](https://github.com/EugeneMGitHub/GetWeatherApp/assets/139618529/b36650aa-3b02-40a2-b735-ba9fe4653ce1)
+<img width="288" alt="1" src="https://github.com/EugeneMGitHub/GetWeatherApp/assets/139618529/8331340c-0610-4c1b-a447-459e4158d44f">
+<img width="288" alt="2" src="https://github.com/EugeneMGitHub/GetWeatherApp/assets/139618529/03aa7611-d199-4a61-9d01-c74cb9cc0839">
+
